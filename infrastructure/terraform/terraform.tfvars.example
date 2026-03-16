@@ -1,0 +1,13 @@
+# Environment Configuration
+environment = "dev"
+location    = "centralindia"
+project_name = "ecom"
+
+# SQL Configuration
+sql_admin_password = "CHANGE_ME_SECURE_PASSWORD_123!"
+
+# Network Configuration (optional)
+allowed_ip_addresses = [
+  # Add your IP addresses here
+  # "YOUR_IP_ADDRESS/32"
+]
